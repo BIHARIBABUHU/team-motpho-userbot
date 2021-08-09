@@ -26,8 +26,8 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/team_morpho_userbot)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/morpho_userbot_channel)
 
 ------
 ## YouTube 📺
@@ -76,7 +76,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-## HellBot Session
+## TEAM MORPHO BOT Session
 
 ### Repl
 - Open Repl Link.
@@ -114,9 +114,9 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">TEAM MORPHO USERBOT</a></h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/BIHARIBABUHU/team-motpho-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
