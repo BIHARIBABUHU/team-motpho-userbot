@@ -30,12 +30,6 @@
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
 
 ------
-## Deploy 🚀
-- [![Deploy](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
-
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
-
-------
 ## YouTube 📺
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/pw2jCeM2sN4?label=Tutorial&style=social)](https://youtu.be/pw2jCeM2sN4)
