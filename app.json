@@ -1,7 +1,7 @@
 {
-  "name": "BIHARI_BABU",
-  "description": "BIHARI_BABU_BOT is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/b761a443044c4197d11ca.jpg ",
+  "name": "⚡️ⲦⲈⲀⲘˣ‿ˣⲘⲞꞄⲢⲎⲞ⚡️",
+  "description": "⚡️ⲦⲈⲀⲘˣ‿ˣⲘⲞꞄⲢⲎⲞ⚡️ is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/7fa298b33c39d1ffa2ac9.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,16 +11,16 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/BIHARIBABUHU/BIHARIBABU/",
+  "repository": "https://github.com/BIHARIBABUHU/team-motpho-userbot/",
   "website": "https://github.com/BIHARIBABUHU/",
-  "success_url": "https://t.me/bihari_babu_bot_support",
+  "success_url": "https://t.me/morpho_userbot_channel",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
+      "description": "Fill Your Telegram Name. Default Value is morpho",
       "value": "BIHARI OP 🔥",
       "required": false
     },
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in hellbot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -77,7 +77,7 @@
       "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
       "value": ""
     },
-    "HELLBOT_SESSION": {
+    "TEAM_MORPHO_BOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
@@ -105,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your channel username(without @) to get this displayed on your Morpho Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
+      "description": "Fill your group username(without @) to get this displayed on your Morpho Alive.",
       "value": "",
       "required": false
     },
