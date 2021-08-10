@@ -78,7 +78,7 @@
       "value": ""
     },
     "TEAM_MORPHO_BOT_SESSION": {
-      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+      "description": "Get this value by using  https://replit.com/@morpho-userbot/Team-morpho-userbot#main.py or termux. Refer to Repo for more info.",
       "value": ""
     },
     "HEROKU_API_KEY": {
