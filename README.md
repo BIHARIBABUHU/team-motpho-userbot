@@ -112,7 +112,7 @@
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/The-HellBot">TEAM MORPHO USERBOT</a></h4>
 
-Project [HellBot](https://github.com/BIHARIBABUHU/team-motpho-userbot) is free software: you can redistribute it and/or modify
+Project [MorphoBot](https://github.com/BIHARIBABUHU/team-motpho-userbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
