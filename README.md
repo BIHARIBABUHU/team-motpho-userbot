@@ -45,7 +45,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/TheVaders/InVade.git`
+`git clone https://github.com/BIHARIBABUHU/BIHARI_USERBOT.git`
 - Open Cloned Folder.
 
 `cd InVade`
@@ -59,7 +59,7 @@
 `pip install -U -r requirements.txt`
 - Generate HELLBOT SESSION.
 
-`python hell_string.py`
+`python morpho_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
 - Finally Start Hêllẞø† By
 
@@ -70,7 +70,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `MORPHOBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -85,19 +85,19 @@
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- Your MORPHOBot Session Will be saved in your Telegram Saved Message.
+- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@morpho-userbot/Team-morpho-userbot)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/TheVaders/InVade/master/hell_string.py && python3 hell_string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/TheVaders/InVade/master/morpho_string.py && python3 morpho_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your HellBot Session Will be saved in your Telegram Saved Message.
+- Your MorphoBot Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
