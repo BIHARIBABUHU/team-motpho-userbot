@@ -86,7 +86,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your MORPHOBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@morpho-userbot/Team-morpho-userbot)
+- [![Replit](https://telegra.ph/file/2d735149ef88d5d2a742f.jpg)](https://replit.com/@morpho-userbot/Team-morpho-userbot)
 
 ### Terminal
 - Open the terminal.
