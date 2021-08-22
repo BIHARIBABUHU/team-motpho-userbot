@@ -7,7 +7,7 @@
     "userbot",
     "plugin",
     "telethon",
-    "hellbot",
+    "Morphobot",
     "modular",
     "productivity"
   ],
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in hellbot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in morphobot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -45,7 +45,7 @@
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
+      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @MORPHO_ID_BOT",
       "value": "",
       "required": false
     },
@@ -74,11 +74,11 @@
       "value": ""
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @MORPHO_ID_BOT and paste here. Value should start with -100",
       "value": ""
     },
     "TEAM_MORPHO_BOT_SESSION": {
-      "description": "Get this value by using  https://replit.com/@morpho-userbot/Team-morpho-userbot#main.py or termux. Refer to Repo for more info.",
+      "description": "Get this value by using  https://replit.com/@morpho-userbot/Morphostring or termux. Refer to Repo for more info.",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -116,7 +116,7 @@
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "1770399499",
+      "value": "1979402315",
       "required": false
     }
   },
