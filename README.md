@@ -1,4 +1,4 @@
-# ⚡️ⲦⲈⲀⲘˣ‿ˣⲘⲞꞄⲢⲎⲞ⚡️ <h1 align="center">
+L# ⚡️ⲦⲈⲀⲘˣ‿ˣⲘⲞꞄⲢⲎⲞ⚡️ <h1 align="center">
   <b> 🇮🇳😈𝗕𝗜𝗛𝗔𝗥𝗜 𝗕𝗔𝗕𝗨😈🇮🇳</b>
 </h1>
 
@@ -53,7 +53,7 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
+- Generate MORPHOBOT SESSION.
 
 `python morpho_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
