@@ -82,23 +82,23 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your MORPHOBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/2d735149ef88d5d2a742f.jpg)](https://replit.com/@morpho-userbot/Team-morpho-userbot)
+- [![Replit](https://telegra.ph/file/2d735149ef88d5d2a742f.jpg)](https://replit.com/@morpho-userbot/Morphostring)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/TheVaders/InVade/master/morpho_string.py && python3 morpho_string.py`
+`pkg install python wget -y && pip install telethon && wget https://github.com/BIHARIBABUHU/BIHARI_USERBOT/blob/main/morpho_string.py && python3 morpho_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
+- If You have Enabled 2-Step Verification then fill your password 
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
 - Your MorphoBot Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
 - We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
+- MorphoBot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
