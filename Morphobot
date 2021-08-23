@@ -6,10 +6,10 @@ _repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $MORPHO_REPO == "MorphoBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0JJSEFSSUJBQlVIVS9CSUhBUklfVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $MORPHO_REPO == "Morphobot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0JJSEFSSUJBQlVIVS9CSUhBUklfVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $MORPHO_REPO =~ $regex ]]
     then
         if [[ $MORPHO_REPO ]]
@@ -19,7 +19,7 @@ _repolink () {
             echo "${MORPHO_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZVZhZGVycy9JblZhZGUvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0JJSEFSSUJBQlVIVS9CSUhBUklfVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     fi
 }
 
